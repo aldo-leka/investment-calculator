@@ -16,7 +16,7 @@ function AppAcademind() {
         setUserInput(prevUserInput => {
             return {
                 ...prevUserInput,
-                [inputIdentifier]: newValue
+                [inputIdentifier]: +newValue
             }
         });
     }
