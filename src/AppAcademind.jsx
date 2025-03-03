@@ -6,4 +6,4 @@ function AppAcademind() {
     );
 }
 
-export default AppAcademind
+export default AppAcademind;
